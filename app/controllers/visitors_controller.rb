@@ -6,7 +6,6 @@ class VisitorsController < ApplicationController
     Rails.logger.debug 'DEBUG: Owner name is ' + @owner.name
     #render 'visitors/new'
     DISASTER
-
   end
 
 end
