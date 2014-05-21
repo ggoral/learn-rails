@@ -1,5 +1,6 @@
 # Start rails server
 bundle exec rails server
+bundle exec rails s
 
 # Generate a model
 bundle exec rails generate model
